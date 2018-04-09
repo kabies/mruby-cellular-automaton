@@ -2,7 +2,7 @@
 w = 39
 h = 23
 birth = [5,6,7,8]
-death = [1,2,3]
+death = [0,1,2,3]
 total_step = 10
 
 srand(Time.now.to_i) # same source, same result.
